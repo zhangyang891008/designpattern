@@ -19,5 +19,4 @@ public class MainTest {
 		System.out.println(student.price);
 		System.out.println(worker.price);
 	}
-
 }
